@@ -12,4 +12,4 @@ Hola!!! Soy Heather, me gustaría presentarte mi perfil de github, disfrutalo �
 
 ## 💼 Mí actividad en github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonso12dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heatherfork)](https://github.com/anuraghazra/github-readme-stats)
