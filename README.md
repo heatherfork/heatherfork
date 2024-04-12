@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola!!! Soy Heather, me gustaría presentarte mi perfil de github, disfrutalo ☕🍪
 
-<!--
-**heatherfork/heatherfork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Experiencia con los siguientes lenguajes de programación
 
-Here are some ideas to get you started:
+-   <img src="https://cdn.discordapp.com/emojis/844666825991520276.png?size=4096" alt="Javascript" width="36" align="center">
+-   <img src="https://cdn.discordapp.com/emojis/1001193725025857616.png?size=4096" alt="Node.js" width="36" align="center">
+-   <img src="https://cdn.discordapp.com/emojis/904792337388015677.png?size=4096" alt="CSS" width="36" align="center">
+-   <img src="https://cdn.discordapp.com/emojis/904792335852900423.png?size=4096" alt="HTML5" width="36" align="center">
+´
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎬 Proyectos actuales
+
+## 💼 Mí actividad en github
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonso12dev)](https://github.com/anuraghazra/github-readme-stats)
